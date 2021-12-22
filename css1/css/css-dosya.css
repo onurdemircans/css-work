@@ -1,0 +1,150 @@
+/* .ortala {
+    background-color: chocolate;
+    text-align: center;
+}
+
+.ortala ul {
+   
+    text-align: center;
+}
+
+.ortala li {
+   display: inline-block;
+   
+    float:left;
+  width:100%;
+  background:#369;
+   overflow:hidden;
+   position:relative;
+
+   clear:left;
+  float:left;
+  list-style:none;
+  margin:0;
+  padding:0;
+  position:relative;
+  left:50%;
+  text-align:center;
+  background-color:#990000
+   
+  .menuKapsulu ul li{
+  display:block;
+  float:left;
+  list-style:none;
+  margin:0 10px 0 0;
+  padding:10px 0;
+  position:relative;
+  right:50%;
+}
+} */
+
+/* .ortala {
+    float: left;
+    width: 100%;
+    background: chartreuse;
+    overflow: hidden;
+    position: relative;
+}
+
+.ortala ul {
+    clear: left;
+    float: left;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    left: 50%;
+    text-align: center;
+    background-color: chocolate;
+}
+
+.ortala ul li {
+    display: block;
+    float: left;
+    list-style: none;
+    margin: 0 10px 0 0;
+    position: relative;
+    right: 50%;
+} */
+
+/* background-color:red ; */
+body {
+    background-color: rgb(255, 248, 248);
+}
+
+.ortala {
+    text-align: center;
+}
+.ortala ul {
+    list-style: none;
+    margin-left: auto;
+    margin-right: auto;
+    display: table;
+    
+}
+
+.ortala ul li {
+    float: left;
+    margin: 0 40px 0 0;
+    padding: 10px 0;  
+    font-size: 24px;
+    
+}
+
+.ortala ul li a {
+    text-decoration: none;
+    
+}
+
+.baslik {
+    color: sienna;
+    font-size: 40px;
+}
+
+.altbaslik {
+    color: chocolate;
+    font-size: 30px;
+}
+
+.altbaslik2 {
+    color: chocolate;
+    font-size: 20px;
+}
+
+.alt ul li {
+    font-size: 24px;
+    text-align: center;   
+    margin: 0 40px 0 0;
+    list-style: none;
+}
+
+.urun {
+    
+    text-align: center;
+    margin-right: 40px;
+}
+
+.urun ol {
+    margin: 20px;
+    
+
+}
+
+.urun ol li {
+    text-align: center;
+    list-style-position: inside ;
+}
+
+.urun p {
+    margin-top: 0px;
+}
+
+/* .urun ol li img {
+    margin: 20px;
+    
+    } */
+
+.kenar {
+   margin-left: 250px;
+   margin-right: 250px;
+}    

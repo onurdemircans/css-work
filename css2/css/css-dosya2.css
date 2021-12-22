@@ -1,0 +1,133 @@
+.logo img {
+    display: block;
+    margin: auto;
+    width: 351px; 
+    height: 113px;
+}
+
+.ortala {
+    width: 1032.55px;
+    height: 62,91 px;
+    background-color: #eeeeee;
+    display: block;
+    text-align: center;
+    margin: auto;
+    padding-bottom:1px;
+    
+    
+}
+.main2 {
+    
+    display: block;
+    margin: auto;
+    width: 1032.55px;
+    height:76.546px;
+}
+.div2 {
+    float: left;
+    width: 381.705px;
+    height:76.546px;
+    margin-top: 1px;
+    text-align: center;
+    background-color: #7EE5DA;
+    
+}
+.div2 ul {
+    margin-top: 10px;
+      
+    
+}
+
+.div2 ul li {
+    margin: 1px;
+    list-style: none;
+    
+}
+
+.div3 {
+    float: left;
+    width: 206.159px;
+    height:76.546px;
+    font-size: 12px;
+    text-align: center;
+    background-color:#70CCC2;
+    margin: 1px;
+    
+    
+   
+}
+.div3 ul {
+    margin-top: 10px;
+    margin-right: 25px;
+      
+    
+}
+.div3 ul li {
+    margin: 1px;
+    list-style: none;
+    
+}
+.div4 {
+    float: left;
+    width: 441.773px;
+    height: 76.546px;
+    margin-top: 1px;
+    text-align: center;
+    background-color:#62B3AA;
+    font-size: 12px;
+    
+}
+.div4 p {
+    margin: 1px;
+    
+}
+
+.div4 a {
+    text-align: center;
+    
+}
+
+.alt{
+    text-align: center;
+}
+/* .ortala2 {
+    background-color: rgb(88, 12, 12);
+    width: 879.68px;
+    height: 62.909px;
+    display: block;
+    text-align: center;
+    margin: auto;
+    
+}
+
+.ortala3 {
+    background-color: rgb(141, 103, 103);
+    
+    height: 62.909px;
+    display: block;
+    text-align: center;
+    margin: 1px;
+    float: left;
+   
+}
+
+.ortala4 {
+    background-color: rgb(141, 103, 103);
+    
+    height: 62.909px;
+    display: block;
+    text-align: center;
+    margin: 1px;
+    float: left;
+   
+}
+.ortala5 {
+    background-color: rgb(141, 103, 103);
+    
+    height: 62.909px;
+    display: block;
+    text-align: center;
+    margin: 1px;
+    float: left;
+   
+} */
