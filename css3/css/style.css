@@ -35,10 +35,13 @@
   margin: 0 auto;
   margin-top: -77px;
   width: 582px;
+  border-radius: 24px;
+  
 }
 
 .search-area:hover {
 box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
+
 }
 
 .search {
@@ -46,6 +49,7 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   display: flex;
   padding: 5px 8px 0 16px;
   padding-left: 14px;
+  
 }
 
 .search-img {
@@ -53,6 +57,8 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   align-items: center;
   padding-right: 13px;
   margin-top: -5px;
+  
+  
 }
 
 .search-img span {
@@ -64,12 +70,16 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   fill: currentColor;
   line-height: 24px;
   position: relative;
+  
+  
 }
 
 .input-enter {
   display: flex;
   flex: 1;
   flex-wrap: wrap;
+  
+  
 }
 
 .input-area {
@@ -79,7 +89,10 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   font: 16px arial, sans-serif;
   line-height: 34px;
   height: 34px !important;
-  display: block;
+  display: flex;
+  margin-top: 66px;
+  
+  
 }
 
 .input {
@@ -103,6 +116,8 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   text-align: start;
   appearance: textfield;
   cursor: text;
+  border: none;
+  
 }
 
 .buttons {
@@ -145,6 +160,7 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
 
 .footerli {
   float: left;
+  list-style: none;
 }
 
 .footerli a {
