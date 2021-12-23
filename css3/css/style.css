@@ -13,6 +13,7 @@
   text-align: center;
   padding: 5px 5px;
   text-decoration: none;
+  float: right;
 }
 
 .headerli a:hover {
@@ -82,7 +83,7 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
 }
 
 .input {
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
   color: rgba(0, 0, 0, 0.87);
   word-wrap: break-word;
@@ -104,6 +105,10 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   cursor: text;
 }
 
+.buttons {
+  text-align: center;  
+}
+
 .googlesearch {
   margin: 11px 4px;
   padding: 0 16px;
@@ -121,6 +126,8 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   text-align: center;
   cursor: pointer;
   user-select: none;
+  margin-left: auto;
+  
 }
 
 .footer {
